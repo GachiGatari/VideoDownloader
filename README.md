@@ -1,5 +1,4 @@
-#This this a little script that can download video from : **2ch.hk** and **YouTube**.
-
+# This this a little script that can download video from : **2ch.hk** and **YouTube**
 Before start **do not** forget install all required libraries:
 `cd %script directory%`
 `pip install -r requirements.txt`
