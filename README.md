@@ -1,5 +1,19 @@
 # This this a little script that can download video from : **2ch.hk** and **YouTube**
 Before start **do not** forget install all required libraries:
+
+`cd %script directory%`
+
+For Linux:
+```
+python -m venv %venv name%
+source %venv name%/bin/activate
+```
+For Windows(in cmd):
+```
+python -m venv %venv name%
+%venv name%\Script\activate.bat
+```
+Then:
 ```
 cd %script directory%
 pip install -r requirements.txt
