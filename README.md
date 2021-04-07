@@ -15,7 +15,6 @@ python -m venv %venv name%
 ```
 Then:
 ```
-cd %script directory%
 pip install -r requirements.txt
 ```
 For download video, all you need to to is;
